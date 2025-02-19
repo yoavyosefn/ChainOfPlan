@@ -2,7 +2,7 @@
 Final Submission to TAU's NLP course, July 2024
 
 ## Details
-In this repo, you may find our Chain-of-Plan implementaition, as well as the compared implementations of Chain-of-Thoughts, Least-to-Most & Self-Discover.
+In this repo, you may find our Chain-of-Plan implementation, as well as the compared implementations of Chain-of-Thoughts, Least-to-Most & Self-Discover.
 
 ## Running Experiments
 The experiments are using OpenAI's API. Please make sure a key is provided. 
